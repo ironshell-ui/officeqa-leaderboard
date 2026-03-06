@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/arnavsinghvi11/officeqa-judge@sha256:ec0a09fa4a4be4219b890689da3a8d05dc6613365a231d0df1d3761b97afcb02",
+    "officeqa_agent": "ghcr.io/ironshell-ui/claudecowork-agent@sha256:f0e711c769efde1c7d018ac3b8a999c96dc3fe37b94ae380cb0927a9abaaf7d0",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-03-06T12:45:26Z",
+  "github_actions": {
+    "run_url": "https://github.com/ironshell-ui/officeqa-leaderboard/actions/runs/22762951328",
+    "run_logs_url": "https://api.github.com/repos/ironshell-ui/officeqa-leaderboard/actions/runs/22762951328/logs",
+    "ref": "refs/heads/main",
+    "sha": "3c3e38b3f19c6787788e294be87ae4a6f385e25a",
+    "repository_url": "https://github.com/ironshell-ui/officeqa-leaderboard",
+    "workflow_ref": "ironshell-ui/officeqa-leaderboard/.github/workflows/run-scenario.yml@refs/heads/main",
+    "workflow_sha": "3c3e38b3f19c6787788e294be87ae4a6f385e25a"
+  }
+}
