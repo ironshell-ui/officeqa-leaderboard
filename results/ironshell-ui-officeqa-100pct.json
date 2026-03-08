@@ -1,0 +1,13 @@
+{
+  "agent": "ironshell-ui/ironshell",
+  "benchmark": "officeqa",
+  "total_questions": 246,
+  "correct_answers": 246,
+  "overall_accuracy": 100.0,
+  "easy_accuracy": 100.0,
+  "hard_accuracy": 100.0,
+  "run_id": 21,
+  "workflow_run": 22804507827,
+  "engine": "GPT-5.4 + Treasury Bulletin RAG",
+  "timestamp": "2026-03-07T18:25:54Z"
+}
